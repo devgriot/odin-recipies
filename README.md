@@ -6,4 +6,6 @@ Added recipes directory with files
 
 Just added titles to all HTML files that were not added before
 
+Add the word Back to the Home link and resized all recipe imgs
+
 # odin-recipies
