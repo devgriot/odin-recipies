@@ -4,4 +4,6 @@ Skills that will be demonstrated are creating HTML files, creating links, embedi
 
 Added recipes directory with files
 
+Just added titles to all HTML files that were not added before
+
 # odin-recipies
