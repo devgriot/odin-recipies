@@ -4,7 +4,6 @@
   box-sizing: border-box;
 }
 
-ul,
-ol {
-  margin-left: 2em;
+body {
+  margin-left: 4em;
 }
